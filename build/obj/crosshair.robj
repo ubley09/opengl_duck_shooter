@@ -1,0 +1,14 @@
+texture img/crosshair.png 1
+on crosshair
+
+c | 1 1 1
+
+t | 0 0
+v | 0 -0.5 -0.5
+t | 0 1
+v | 0 0.5 -0.5
+t | 1 1
+v | 0 0.5 0.5
+t | 1 0
+v | 0 -0.5 0.5
+

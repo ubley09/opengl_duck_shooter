@@ -1,0 +1,14 @@
+texture img/grass.jpg 0
+on grass
+
+c | 1 1 1
+
+t | 0 0
+v | 0 0 0
+t | 0 1
+v | 0 1 0
+t | 1 1
+v | 0 1 1
+t | 1 0
+v | 0 0 1
+

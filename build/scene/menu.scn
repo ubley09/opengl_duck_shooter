@@ -1,0 +1,3 @@
+sn menu
+obj obj/startButton.robj 0 0.5 -1 0 0
+obj obj/exitButton.robj 0 -1.5 -1 0 0
